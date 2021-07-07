@@ -1,0 +1,21 @@
+form {
+  justify-content: center;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.searchBtn {
+  margin: 5px;
+  padding: 3px;
+  width: 5%;
+}
+
+.searchInput {
+  margin: 5px;
+  padding: 3px;
+  width: 10%;
+}
+
+.searchLabel {
+  padding: 10px;
+}
